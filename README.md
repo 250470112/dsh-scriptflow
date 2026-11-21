@@ -8,7 +8,7 @@
 
 ```
 # 1. 把仓库放到本机任意目录（link 安装，不在 profile 里复制一份）
-git clone https://github.com/xx124296314-bot/dsh-scriptflow.git E:\Tools\dsh-scriptflow
+git clone https://github.com/250470112/dsh-scriptflow.git E:\Tools\dsh-scriptflow
 
 # 2. 注册进 DeepSeek Harness
 plugin_manager install_bundle target=E:\Tools\dsh-scriptflow
